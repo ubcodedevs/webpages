@@ -24,10 +24,10 @@ div {
     padding: 40px 40px;
 }
 
-div:first-child {
+#spec1 {
     background-color: rgb(59, 182, 182);
 }
 
-#spec {
+#spec2 {
     background-color: rgb(202, 62, 109);
 }
