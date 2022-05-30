@@ -5,3 +5,9 @@ h2 {
 p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+button {
+    background-color: 'lightblue';
+    padding: 20px 40px;
+    font-family: 'Roboto';
+}
